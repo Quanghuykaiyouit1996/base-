@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "567961484785",
+    "project_id": "tingtong-cityland",
+    "storage_bucket": "tingtong-cityland.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567961484785:android:8ee2857dfb94c7cd40d850",
+        "android_client_info": {
+          "package_name": "vn.suplo.tingtong"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "567961484785-4tf3hjm76fuou1dqct5n4s5fkksgemai.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgsis8Giak6J6Ef-TysOGi4W4_yD-WMfY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "567961484785-4tf3hjm76fuou1dqct5n4s5fkksgemai.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "567961484785-mod4i5o8jpp3crbl0slkt6h79e6sdpbt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "vn.suplo.tingtong"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
